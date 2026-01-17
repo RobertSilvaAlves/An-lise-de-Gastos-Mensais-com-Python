@@ -43,6 +43,9 @@ Essa abordagem facilita o acesso, a análise e a visualização dos dados.
 ### 🔹 Total de Gastos por Mês
 Foi calculado o total de gastos para cada mês, permitindo identificar qual mês teve maior despesa total.
 
+<img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/b19ee601-b68e-4fcf-8a47-b977322c3b6b" />
+
+
 **Insight:**  
 Janeiro apresentou um gasto total maior em comparação com Fevereiro.
 
@@ -54,6 +57,10 @@ Foram criados gráficos de barras para cada mês, mostrando a distribuição dos
 Os valores foram:
 - Ordenados em **ordem crescente**
 - Anotados diretamente nas barras para facilitar a leitura
+
+<img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/4f20e77b-e91e-499d-bf84-ad9d91cb91c4" />
+<img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/45531fd9-754f-4952-aa5a-7e429144a0fd" />
+
 
 **Insight:**  
 A categoria **Moradia** foi a que apresentou maior peso nos gastos em ambos os meses.
