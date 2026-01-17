@@ -1,13 +1,13 @@
 # 📊 Análise de Gastos Mensais com Python
 
-## 📌 Descrição do Projeto
+##  Descrição do Projeto
 Este projeto tem como objetivo realizar uma **análise simples de gastos mensais**, utilizando Python, com foco na **organização dos dados, extração de insights e visualização gráfica**.
 
 Os dados representam gastos divididos por **categorias** em dois meses diferentes (Janeiro e Fevereiro), permitindo comparar totais mensais e entender como os gastos se distribuem em cada categoria.
 
 ---
 
-## 🎯 Objetivos da Análise
+##  Objetivos da Análise
 - Calcular o **total de gastos por mês**
 - Identificar a **categoria com maior gasto** em cada mês
 - Comparar os gastos entre os meses
@@ -15,7 +15,7 @@ Os dados representam gastos divididos por **categorias** em dois meses diferente
 
 ---
 
-## 🧩 Estrutura dos Dados
+##  Estrutura dos Dados
 Os dados foram organizados em um **dicionário**, onde:
 - Cada chave principal representa um **mês**
 - Cada mês contém um conjunto de **categorias de gastos** associadas aos seus valores
@@ -31,14 +31,14 @@ Essa abordagem facilita o acesso, a análise e a visualização dos dados.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 - **Python**
 - **Matplotlib**
 - **Google Colab**
 
 ---
 
-## 📈 Análises Realizadas
+##  Análises Realizadas
 
 ### 🔹 Total de Gastos por Mês
 Foi calculado o total de gastos para cada mês, permitindo identificar qual mês teve maior despesa total.
@@ -69,7 +69,7 @@ Essas visualizações ajudam a compreender rapidamente o comportamento dos gasto
 
 ---
 
-## 🚀 Aprendizados
+## Aprendizados
 Durante o desenvolvimento deste projeto, foram trabalhados conceitos importantes como:
 - Estruturação de dados com dicionários
 - Separação entre **dados brutos** e **resultados de análise**
@@ -79,7 +79,7 @@ Durante o desenvolvimento deste projeto, foram trabalhados conceitos importantes
 
 ---
 
-## 🔜 Próximos Passos
+## Próximos Passos
 - Expandir a análise para mais meses
 - Comparar a variação de gastos por categoria entre os meses
 - Refatorar o código para reduzir repetições
@@ -87,6 +87,6 @@ Durante o desenvolvimento deste projeto, foram trabalhados conceitos importantes
 
 ---
 
-## 👤 Autor
+## Autor
 **Robert Alves**  
 Em transição para a área de **Dados**, desenvolvendo projetos práticos em Python para fortalecer o portfólio.
